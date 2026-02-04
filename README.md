@@ -73,12 +73,12 @@ A responsive web-based banking system that allows users to create accounts, mana
 
 ## 🧩 Features
 
-- ✅ **User Login & Registration**
-- 💼 **Balance Management (Credit/Debit)**
-- 🔁 **Secure Fund Transfers**
-- 🧾 **Transaction Logs**
-- 📈 **Basic Analytics Dashboard**
-- 📱 **Fully Responsive UI (Bootstrap)**
+-  **User Login & Registration**
+-  **Balance Management (Credit/Debit)**
+-  **Secure Fund Transfers**
+-  **Transaction Logs**
+-  **Basic Analytics Dashboard**
+-  **Fully Responsive UI (Bootstrap)**
 
 ---
 
