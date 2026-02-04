@@ -116,6 +116,3 @@ Run the App
 
 Visit http://localhost/Bank-Management-System-in-Web/
 
-## Author
-
-This project was updat by [Siham Nafie](https://github.com/SihamNafie24)
